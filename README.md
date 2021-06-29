@@ -41,7 +41,7 @@ We conducted the benchmarking on an Acer Aspire 5 machine with 1.6GHz(with Turbo
 ## Note
 * All the directories in this repository have separate READMES which provide information about the functions implemented in the .c files in that directory.
 * The source files are well commented as well
-* Link to presentation: [Presentation](https://docs.google.com/presentation/d/1e-mg9RtKudUxI7enxK1pMCTCyFjADkYlf7XBl0A94Uk/edit?usp=sharing) 
+* Link to presentation: [Presentation](https://drive.google.com/file/d/1fMk7OI1M5Z2TRFJGjhrpfwKQZ7QEQ7mL/view?usp=sharing) 
 
 
 
