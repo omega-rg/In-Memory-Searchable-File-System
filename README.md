@@ -31,8 +31,8 @@ Type in the command `ls ./FIND/PREFIX/<prefixname>` to search all files in the e
 ## Benchmarking
 Comparison between IMSFS and an on-disk filesystem. The benchmarking tool Bonnie++ was used for this and we used a file size of 6GB. We allowed the on-disk filesystem(ext4) to use 1GB of RAM while IMSFS was allowed 7GB of RAM. 
 
-![data](https://frank-chris.github.io/my-website/data.png)
-![plot](https://frank-chris.github.io/my-website/plot.png)
+![data](../assets/data.png)
+![plot](../assets/plot.png)
 
 **Note regarding measurements**    
 We conducted the benchmarking on an Acer Aspire 5 machine with 1.6GHz(with Turbo Boost upto 3.4GHz) Intel i5 8 CPU. The RAM was 8GB DDR4. The operating system was Ubuntu 20.4, with patches as of November 20, 2020. The OS was installed a few days before measurement and all measurements were done immediately after rebooting and preventing unnecessary processes from running in the background. The on-disk file system was ext4 and had 256GB of space on the partition.
