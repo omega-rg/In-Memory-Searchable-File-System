@@ -11,6 +11,10 @@
 * The file system also supports search based on metadata
 * There is nothing like this on Github! We are the first to create such a filesystem using the FUSE library. 😀
 
+### Project Presentation Slides
+Link to slides: [Click here](https://drive.google.com/file/d/1fMk7OI1M5Z2TRFJGjhrpfwKQZ7QEQ7mL/view?usp=sharing) 
+
+
 ## Using IMSFS
 
 1. Clone the repository. 
@@ -40,8 +44,7 @@ We conducted the benchmarking on an Acer Aspire 5 machine with 1.6GHz(with Turbo
 
 ## Note
 * All the directories in this repository have separate READMES which provide information about the functions implemented in the .c files in that directory.
-* The source files are well commented as well
-* Link to presentation: [Presentation](https://drive.google.com/file/d/1fMk7OI1M5Z2TRFJGjhrpfwKQZ7QEQ7mL/view?usp=sharing) 
+* The source files are well commented as well.
 
 
 
